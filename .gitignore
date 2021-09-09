@@ -2,3 +2,4 @@
 Dockerfile.engine
 image-linux
 *.tar
+.idea/
